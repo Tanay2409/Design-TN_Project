@@ -1,5 +1,5 @@
 
-# [@Design-TN (Mini-Project)](https://tanay2409-design-tn-project.netlify.app/)
+# [Design-TN (Mini-Project)](https://tanay2409-design-tn-project.netlify.app/)
 
 This project is a webpage designed to represents a generic company's home page where generic information of the company and its services can be seen.
 
