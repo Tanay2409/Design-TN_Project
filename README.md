@@ -26,6 +26,10 @@ This project is a webpage designed to represents a generic company's home page w
 ![ss3](https://user-images.githubusercontent.com/86257435/132731910-27040267-b790-4e15-beab-772947108107.PNG)
 ![ss4](https://user-images.githubusercontent.com/86257435/132731924-6038fdcc-4aa4-4356-84d4-2458731f28f6.PNG)
 
+## Webpage Link
+
+https://tanay2409-design-tn-project.netlify.app/
+
 ## Author
 
 - [@Tanay Nagar](https://www.github.com/Tanay2409)
